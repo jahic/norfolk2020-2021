@@ -1,5 +1,11 @@
 package test.common.ops.files;
 
+/**
+ * Test reading from files.
+ * @author jahic
+ *
+ */
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import java.io.IOException;

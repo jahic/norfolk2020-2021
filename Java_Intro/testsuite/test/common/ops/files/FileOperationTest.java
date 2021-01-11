@@ -1,5 +1,11 @@
 package test.common.ops.files;
 
+/**
+ * Test different file operations.
+ * @author jahic
+ *
+ */
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
