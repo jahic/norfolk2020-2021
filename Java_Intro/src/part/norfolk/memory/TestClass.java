@@ -2,7 +2,7 @@ package part.norfolk.memory;
 
 /**
  * A test class, with getters and setters, and constructors.
- * @author Baa_a
+ * @author jahic
  *
  */
 

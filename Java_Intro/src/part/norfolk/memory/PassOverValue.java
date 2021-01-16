@@ -3,7 +3,7 @@ package part.norfolk.memory;
 /**
  * Demonstrate return type.
  * Demonstrate passing over value.
- * @author Baa_a
+ * @author jahic
  *
  */
 
