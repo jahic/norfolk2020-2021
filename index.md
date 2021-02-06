@@ -1,7 +1,6 @@
----
-layout: page
-title: Home
----
+[Course material](material.md)
+[Student projects](projects.md)
+[Contact](contact.md)
 
 
 ## Welcome to course page "Setting up efficient development environment for continuous software engineering"
