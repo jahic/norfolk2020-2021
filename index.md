@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to course page "Setting up efficient development environment for continuous software engineering"
 
 You can use the [editor on GitHub](https://github.com/jahic/norfolk2020-2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
