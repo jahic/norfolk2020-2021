@@ -1,3 +1,5 @@
+[link to Google](https://www.google.com)
+
 ## Welcome to course page "Setting up efficient development environment for continuous software engineering"
 
 ### Overview
