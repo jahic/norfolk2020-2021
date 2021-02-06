@@ -1,0 +1,12 @@
+# Site navigation links
+- title: Home
+  url: /
+
+- title: Course material
+  url: /material/
+
+- title: Student projects
+  url: /projects/
+
+- title: Contact
+  url: /contact/
