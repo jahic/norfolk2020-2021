@@ -1,4 +1,4 @@
-[link to Google](https://www.google.com)
+[Course material](material.md)
 
 ## Welcome to course page "Setting up efficient development environment for continuous software engineering"
 
