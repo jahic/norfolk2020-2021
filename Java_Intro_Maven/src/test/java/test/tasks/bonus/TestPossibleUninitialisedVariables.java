@@ -8,6 +8,8 @@ package test.tasks.bonus;
 public class TestPossibleUninitialisedVariables {
 
 	public static void main(String[] args) {
+
+		@SuppressWarnings("unused")
 		int x, a=10;
 		
 		if (a==10)
