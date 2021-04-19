@@ -1,7 +1,6 @@
 package part.common.ops.files;
 
 import java.io.File;
-import java.net.URISyntaxException;
 
 /**
  * Standard set of operations on files.
