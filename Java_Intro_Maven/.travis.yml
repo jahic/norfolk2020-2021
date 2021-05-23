@@ -1,0 +1,5 @@
+dist: main
+language: java
+sudo: false
+jdk:
+  - openjdk8
