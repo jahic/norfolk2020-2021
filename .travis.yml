@@ -1,5 +1,5 @@
 language: java
 sudo: false
 script: 
-cd Java_Intro_Maven
+cd Java_Intro_Maven &&
 mvn clean verify
