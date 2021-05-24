@@ -2,3 +2,12 @@ language: java
 sudo: true
 script: cd Java_Intro_Maven &&
   mvn clean verify
+
+deploy:
+  provider: releases
+  api_key: "GITHUB OAUTH TOKEN"
+  file: "FILE TO UPLOAD"
+  skip_cleanup: true
+  on:
+    tags: true
+    rvm: 2.0.0
