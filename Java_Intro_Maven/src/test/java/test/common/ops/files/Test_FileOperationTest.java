@@ -30,7 +30,6 @@ class Test_FileOperationTest {
 	@Test
 	void testGetFileSizeBytes() {
 		FileOperation fileOperation = new FileOperation("src/test/resources", "testRead.txt");
-
 		//assertEquals(18.0, fileOperation.getFileSizeBytes());	
 	}
 
