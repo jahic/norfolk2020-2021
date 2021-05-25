@@ -1,4 +1,5 @@
 language: java
-sudo: true
-script: cd Java_Intro_Maven &&
-  mvn clean verify
+sudo: false
+script: 
+  - cd Java_Intro_Maven
+  - mvn clean verify
